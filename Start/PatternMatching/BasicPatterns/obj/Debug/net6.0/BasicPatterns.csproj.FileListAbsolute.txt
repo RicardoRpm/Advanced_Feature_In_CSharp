@@ -1,0 +1,15 @@
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\bin\Debug\net6.0\BasicPatterns.exe
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\bin\Debug\net6.0\BasicPatterns.deps.json
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\bin\Debug\net6.0\BasicPatterns.runtimeconfig.json
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\bin\Debug\net6.0\BasicPatterns.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\bin\Debug\net6.0\BasicPatterns.pdb
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\obj\Debug\net6.0\BasicPatterns.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\obj\Debug\net6.0\BasicPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\obj\Debug\net6.0\BasicPatterns.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\obj\Debug\net6.0\BasicPatterns.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\obj\Debug\net6.0\BasicPatterns.csproj.CoreCompileInputs.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\obj\Debug\net6.0\BasicPatterns.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\obj\Debug\net6.0\refint\BasicPatterns.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\obj\Debug\net6.0\BasicPatterns.pdb
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\obj\Debug\net6.0\BasicPatterns.genruntimeconfig.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\BasicPatterns\obj\Debug\net6.0\ref\BasicPatterns.dll

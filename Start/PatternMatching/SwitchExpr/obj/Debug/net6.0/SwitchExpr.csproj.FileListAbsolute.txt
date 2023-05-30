@@ -1,0 +1,15 @@
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\bin\Debug\net6.0\SwitchExpr.exe
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\bin\Debug\net6.0\SwitchExpr.deps.json
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\bin\Debug\net6.0\SwitchExpr.runtimeconfig.json
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\bin\Debug\net6.0\SwitchExpr.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\bin\Debug\net6.0\SwitchExpr.pdb
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\obj\Debug\net6.0\SwitchExpr.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\obj\Debug\net6.0\SwitchExpr.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\obj\Debug\net6.0\SwitchExpr.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\obj\Debug\net6.0\SwitchExpr.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\obj\Debug\net6.0\SwitchExpr.csproj.CoreCompileInputs.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\obj\Debug\net6.0\SwitchExpr.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\obj\Debug\net6.0\refint\SwitchExpr.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\obj\Debug\net6.0\SwitchExpr.pdb
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\obj\Debug\net6.0\SwitchExpr.genruntimeconfig.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\SwitchExpr\obj\Debug\net6.0\ref\SwitchExpr.dll

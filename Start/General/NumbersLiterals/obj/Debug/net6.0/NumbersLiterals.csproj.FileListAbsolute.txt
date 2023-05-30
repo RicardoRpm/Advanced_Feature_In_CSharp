@@ -1,0 +1,15 @@
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\bin\Debug\net6.0\NumbersLiterals.exe
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\bin\Debug\net6.0\NumbersLiterals.deps.json
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\bin\Debug\net6.0\NumbersLiterals.runtimeconfig.json
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\bin\Debug\net6.0\NumbersLiterals.dll
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\bin\Debug\net6.0\NumbersLiterals.pdb
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\obj\Debug\net6.0\NumbersLiterals.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\obj\Debug\net6.0\NumbersLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\obj\Debug\net6.0\NumbersLiterals.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\obj\Debug\net6.0\NumbersLiterals.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\obj\Debug\net6.0\NumbersLiterals.csproj.CoreCompileInputs.cache
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\obj\Debug\net6.0\NumbersLiterals.dll
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\obj\Debug\net6.0\refint\NumbersLiterals.dll
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\obj\Debug\net6.0\NumbersLiterals.pdb
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\obj\Debug\net6.0\NumbersLiterals.genruntimeconfig.cache
+C:\DotNet 6\advanced_feature\Start\General\NumbersLiterals\obj\Debug\net6.0\ref\NumbersLiterals.dll

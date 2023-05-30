@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IndexRanges/1.0.0": {
+        "runtime": {
+          "IndexRanges.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndexRanges/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

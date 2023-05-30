@@ -1,0 +1,15 @@
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\bin\Debug\net6.0\IndexRanges.exe
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\bin\Debug\net6.0\IndexRanges.deps.json
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\bin\Debug\net6.0\IndexRanges.runtimeconfig.json
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\bin\Debug\net6.0\IndexRanges.dll
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\bin\Debug\net6.0\IndexRanges.pdb
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\obj\Debug\net6.0\IndexRanges.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\obj\Debug\net6.0\IndexRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\obj\Debug\net6.0\IndexRanges.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\obj\Debug\net6.0\IndexRanges.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\obj\Debug\net6.0\IndexRanges.csproj.CoreCompileInputs.cache
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\obj\Debug\net6.0\IndexRanges.dll
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\obj\Debug\net6.0\refint\IndexRanges.dll
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\obj\Debug\net6.0\IndexRanges.pdb
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\obj\Debug\net6.0\IndexRanges.genruntimeconfig.cache
+C:\DotNet 6\advanced_feature\Start\General\IndexRanges\obj\Debug\net6.0\ref\IndexRanges.dll

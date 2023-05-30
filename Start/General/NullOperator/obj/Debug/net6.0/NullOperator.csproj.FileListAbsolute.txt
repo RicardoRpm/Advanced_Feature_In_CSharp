@@ -1,0 +1,15 @@
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\bin\Debug\net6.0\NullOperator.exe
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\bin\Debug\net6.0\NullOperator.deps.json
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\bin\Debug\net6.0\NullOperator.runtimeconfig.json
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\bin\Debug\net6.0\NullOperator.dll
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\bin\Debug\net6.0\NullOperator.pdb
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\obj\Debug\net6.0\NullOperator.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\obj\Debug\net6.0\NullOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\obj\Debug\net6.0\NullOperator.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\obj\Debug\net6.0\NullOperator.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\obj\Debug\net6.0\NullOperator.csproj.CoreCompileInputs.cache
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\obj\Debug\net6.0\NullOperator.dll
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\obj\Debug\net6.0\refint\NullOperator.dll
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\obj\Debug\net6.0\NullOperator.pdb
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\obj\Debug\net6.0\NullOperator.genruntimeconfig.cache
+C:\DotNet 6\advanced_feature\Start\General\NullOperator\obj\Debug\net6.0\ref\NullOperator.dll

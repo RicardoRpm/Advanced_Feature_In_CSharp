@@ -1,0 +1,15 @@
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\bin\Debug\net6.0\PositionalPatterns.exe
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\bin\Debug\net6.0\PositionalPatterns.deps.json
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\bin\Debug\net6.0\PositionalPatterns.runtimeconfig.json
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\bin\Debug\net6.0\PositionalPatterns.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\bin\Debug\net6.0\PositionalPatterns.pdb
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\obj\Debug\net6.0\PositionalPatterns.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\obj\Debug\net6.0\PositionalPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\obj\Debug\net6.0\PositionalPatterns.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\obj\Debug\net6.0\PositionalPatterns.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\obj\Debug\net6.0\PositionalPatterns.csproj.CoreCompileInputs.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\obj\Debug\net6.0\PositionalPatterns.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\obj\Debug\net6.0\refint\PositionalPatterns.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\obj\Debug\net6.0\PositionalPatterns.pdb
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\obj\Debug\net6.0\PositionalPatterns.genruntimeconfig.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PositionalPatterns\obj\Debug\net6.0\ref\PositionalPatterns.dll

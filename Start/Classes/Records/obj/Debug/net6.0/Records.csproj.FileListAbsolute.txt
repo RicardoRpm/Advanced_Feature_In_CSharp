@@ -1,0 +1,15 @@
+C:\DotNet 6\advanced_feature\Start\Classes\Records\bin\Debug\net6.0\Records.exe
+C:\DotNet 6\advanced_feature\Start\Classes\Records\bin\Debug\net6.0\Records.deps.json
+C:\DotNet 6\advanced_feature\Start\Classes\Records\bin\Debug\net6.0\Records.runtimeconfig.json
+C:\DotNet 6\advanced_feature\Start\Classes\Records\bin\Debug\net6.0\Records.dll
+C:\DotNet 6\advanced_feature\Start\Classes\Records\bin\Debug\net6.0\Records.pdb
+C:\DotNet 6\advanced_feature\Start\Classes\Records\obj\Debug\net6.0\Records.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\Classes\Records\obj\Debug\net6.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\Classes\Records\obj\Debug\net6.0\Records.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\Classes\Records\obj\Debug\net6.0\Records.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\Classes\Records\obj\Debug\net6.0\Records.csproj.CoreCompileInputs.cache
+C:\DotNet 6\advanced_feature\Start\Classes\Records\obj\Debug\net6.0\Records.dll
+C:\DotNet 6\advanced_feature\Start\Classes\Records\obj\Debug\net6.0\refint\Records.dll
+C:\DotNet 6\advanced_feature\Start\Classes\Records\obj\Debug\net6.0\Records.pdb
+C:\DotNet 6\advanced_feature\Start\Classes\Records\obj\Debug\net6.0\Records.genruntimeconfig.cache
+C:\DotNet 6\advanced_feature\Start\Classes\Records\obj\Debug\net6.0\ref\Records.dll

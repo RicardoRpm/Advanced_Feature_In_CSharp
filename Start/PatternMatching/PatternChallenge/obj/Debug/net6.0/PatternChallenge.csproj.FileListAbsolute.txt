@@ -1,0 +1,5 @@
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PatternChallenge\obj\Debug\net6.0\PatternChallenge.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PatternChallenge\obj\Debug\net6.0\PatternChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PatternChallenge\obj\Debug\net6.0\PatternChallenge.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PatternChallenge\obj\Debug\net6.0\PatternChallenge.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\PatternMatching\PatternChallenge\obj\Debug\net6.0\PatternChallenge.csproj.CoreCompileInputs.cache

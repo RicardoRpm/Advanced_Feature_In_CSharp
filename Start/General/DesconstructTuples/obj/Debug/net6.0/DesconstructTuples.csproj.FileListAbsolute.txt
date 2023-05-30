@@ -1,0 +1,15 @@
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\obj\Debug\net6.0\DesconstructTuples.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\obj\Debug\net6.0\DesconstructTuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\obj\Debug\net6.0\DesconstructTuples.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\obj\Debug\net6.0\DesconstructTuples.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\obj\Debug\net6.0\DesconstructTuples.csproj.CoreCompileInputs.cache
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\bin\Debug\net6.0\DesconstructTuples.exe
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\bin\Debug\net6.0\DesconstructTuples.deps.json
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\bin\Debug\net6.0\DesconstructTuples.runtimeconfig.json
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\bin\Debug\net6.0\DesconstructTuples.dll
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\bin\Debug\net6.0\DesconstructTuples.pdb
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\obj\Debug\net6.0\DesconstructTuples.dll
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\obj\Debug\net6.0\refint\DesconstructTuples.dll
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\obj\Debug\net6.0\DesconstructTuples.pdb
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\obj\Debug\net6.0\DesconstructTuples.genruntimeconfig.cache
+C:\DotNet 6\advanced_feature\Start\General\DesconstructTuples\obj\Debug\net6.0\ref\DesconstructTuples.dll

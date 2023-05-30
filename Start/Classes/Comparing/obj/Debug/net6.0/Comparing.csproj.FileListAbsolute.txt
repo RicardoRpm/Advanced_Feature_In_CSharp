@@ -1,0 +1,15 @@
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\bin\Debug\net6.0\Comparing.exe
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\bin\Debug\net6.0\Comparing.deps.json
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\bin\Debug\net6.0\Comparing.runtimeconfig.json
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\bin\Debug\net6.0\Comparing.dll
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\bin\Debug\net6.0\Comparing.pdb
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\obj\Debug\net6.0\Comparing.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\obj\Debug\net6.0\Comparing.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\obj\Debug\net6.0\Comparing.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\obj\Debug\net6.0\Comparing.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\obj\Debug\net6.0\Comparing.csproj.CoreCompileInputs.cache
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\obj\Debug\net6.0\Comparing.dll
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\obj\Debug\net6.0\refint\Comparing.dll
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\obj\Debug\net6.0\Comparing.pdb
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\obj\Debug\net6.0\Comparing.genruntimeconfig.cache
+C:\DotNet 6\advanced_feature\Start\Classes\Comparing\obj\Debug\net6.0\ref\Comparing.dll

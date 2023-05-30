@@ -1,0 +1,15 @@
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\obj\Debug\net6.0\DesconstructCustom.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\obj\Debug\net6.0\DesconstructCustom.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\obj\Debug\net6.0\DesconstructCustom.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\obj\Debug\net6.0\DesconstructCustom.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\obj\Debug\net6.0\DesconstructCustom.csproj.CoreCompileInputs.cache
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\bin\Debug\net6.0\DesconstructCustom.exe
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\bin\Debug\net6.0\DesconstructCustom.deps.json
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\bin\Debug\net6.0\DesconstructCustom.runtimeconfig.json
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\bin\Debug\net6.0\DesconstructCustom.dll
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\bin\Debug\net6.0\DesconstructCustom.pdb
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\obj\Debug\net6.0\DesconstructCustom.dll
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\obj\Debug\net6.0\refint\DesconstructCustom.dll
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\obj\Debug\net6.0\DesconstructCustom.pdb
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\obj\Debug\net6.0\DesconstructCustom.genruntimeconfig.cache
+C:\DotNet 6\advanced_feature\Start\General\DesconstructCustom\obj\Debug\net6.0\ref\DesconstructCustom.dll

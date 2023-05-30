@@ -1,0 +1,15 @@
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\bin\Debug\net6.0\RelationalPatterns.exe
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\bin\Debug\net6.0\RelationalPatterns.deps.json
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\bin\Debug\net6.0\RelationalPatterns.runtimeconfig.json
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\bin\Debug\net6.0\RelationalPatterns.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\bin\Debug\net6.0\RelationalPatterns.pdb
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\obj\Debug\net6.0\RelationalPatterns.csproj.AssemblyReference.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\obj\Debug\net6.0\RelationalPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\obj\Debug\net6.0\RelationalPatterns.AssemblyInfoInputs.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\obj\Debug\net6.0\RelationalPatterns.AssemblyInfo.cs
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\obj\Debug\net6.0\RelationalPatterns.csproj.CoreCompileInputs.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\obj\Debug\net6.0\RelationalPatterns.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\obj\Debug\net6.0\refint\RelationalPatterns.dll
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\obj\Debug\net6.0\RelationalPatterns.pdb
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\obj\Debug\net6.0\RelationalPatterns.genruntimeconfig.cache
+C:\DotNet 6\advanced_feature\Start\PatternMatching\RelationalPatterns\obj\Debug\net6.0\ref\RelationalPatterns.dll
